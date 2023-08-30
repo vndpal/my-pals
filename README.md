@@ -1,7 +1,54 @@
 # my-pals
 This is a project where you can still be in touch with your important friends and families
 
-User Stories
+# User Stories
+
+User Story 1: Adding Contacts
+As a user, I want to be able to add people to my network. I should be able to specify their name, contact information (phone number, email, address), and categorize them as Friends, Colleagues, or Leads.
+
+User Story 2: Setting Reminders
+As a user, I want the ability to set reminders for each contact to track when I last connected with them. I should be able to specify the date of the last interaction and mark them as "Contacted."
+
+User Story 3: Adding Important Dates
+As a user, I want to be able to add important dates for each contact, such as birthdays and anniversaries.
+
+User Story 4: Contact Frequency
+As a user, I want to specify how frequently I want to connect with each contact. This frequency can be set as monthly, quarterly, bi-annually, or annually.
+
+User Story 5: Sorting Contacts
+As a user, when I open the app, I want to see my contacts sorted by the nearest contact date. For example, if today is April 25th, and I have a contact scheduled for April 30th and another for May 5th, the contact due on April 30th should appear at the top of the list.
+
+User Story 6: Reminders and Notifications
+As a user, I want to receive notifications or reminders when it's time to contact a person based on their specified frequency. These reminders should be sent on the chosen contact date.
+
+User Story 7: Dashboard View
+As a user, I want a dashboard view that shows upcoming contact dates, birthdays, anniversaries, and other important dates for all my contacts.
+
+User Story 8: Editing and Updating Contacts
+As a user, I want the ability to edit and update contact details, last contact dates, and contact frequencies as my relationships evolve.
+
+User Story 9: Search and Filter
+As a user, I want the ability to search for specific contacts and filter my contacts list by categories (Friends, Colleagues, Leads) and contact frequency.
+
+User Story 10: Data Backup and Restore
+As a user, I want to ensure my data is safe, so I need the option to backup and restore my contacts and settings.
+
+User Story 11: User Account
+As a user, I want to create a user account with a username and password to access my contact data securely across multiple devices.
+
+User Story 12: Privacy and Security
+As a user, I want my contact data to be stored securely, and I should have control over who can access my information.
+
+User Story 13: Import and Export
+As a user, I want to import contacts from my phone's contact list and export my contact data in a standard format for backup purposes.
+
+User Story 14: Analytics
+As a user, I want to see statistics and analytics on my interaction history, such as the percentage of contacts I've reached out to on time.
+
+User Story 15: Notes and History
+As a user, I want the ability to add notes for each contact, keeping a history of our interactions.
+
+# screens
 1. Home Screen / Dashboard:
 
 This is the main screen users see upon opening the app.
